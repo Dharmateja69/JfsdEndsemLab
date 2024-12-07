@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-mapping>
+<class name="com.klef.exam.Department">
+<id name="id"/>
+<property name="name"/>
+<property name="location"/>
+<property name="hodName"/>
+</class>
+</hibernate-mapping>
